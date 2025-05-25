@@ -3,3 +3,4 @@ cronjob für rclone
 
 Retz:
 Backup vom jw15-franz ist im Gange 11:15
+Festplatten Test nas99 anschauen
