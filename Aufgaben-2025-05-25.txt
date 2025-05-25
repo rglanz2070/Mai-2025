@@ -2,4 +2,4 @@ Pulkau:
 cronjob für rclone
 
 Retz:
-Backup vom jw15-franz
+Backup vom jw15-franz ist im Gange 11:15
