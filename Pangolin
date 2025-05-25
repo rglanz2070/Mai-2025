@@ -5,3 +5,4 @@ https://www.youtube.com/watch?v=a-a-Xk1hXBQ
 Homepage vom Projekt
 https://github.com/fosrl/pangolin
 
+$(find /mnt/ -type f |grep qcow2.174
