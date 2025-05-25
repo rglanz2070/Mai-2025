@@ -1,4 +1,5 @@
 Pulkau:
+cronjob für rclone
 
 Retz:
 Backup vom jw15-franz
