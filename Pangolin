@@ -6,3 +6,6 @@ Homepage vom Projekt
 https://github.com/fosrl/pangolin
 
 $(find /mnt/ -type f |grep qcow2.174
+
+
+ssh rglanz@100.99.236.20 -L2283:10.20.70.248:2283 -L8000:10.20.70.252:8000
