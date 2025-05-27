@@ -9,7 +9,7 @@ virsh backup-begin paperless-h11
 sleep 1200
 
 source /root/bin/env/.nas99.env
-restic -v backup --tag nas99,USB1tb,qcow2,immich-h11,paperless-h11 $(find /mnt/ -type f |grep qcow2.174)
+restic -v backup --tag h11,qcow2,immich-h11,paperless-h11 $(find /mnt/ -type f |grep qcow2.174)
 
 
 restic snapshots
